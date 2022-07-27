@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>attachment_list</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name>attachment_list</field_name>
+        <hidden>false</hidden>
+        <order>110</order>
+        <record_id_field>sys_id</record_id_field>
+        <screen display_value="Details">5637aa9f97b81110de3bbfb3f153af59</screen>
+        <screen_data_item_table>x_58872_needit_needit</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 10:35:40</sys_created_on>
+        <sys_id>99961ccc97891110de3bbfb3f153af53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment_list</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_screen_field_99961ccc97891110de3bbfb3f153af53</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 10:35:40</sys_updated_on>
+        <type>attachments_list</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=99961ccc97891110de3bbfb3f153af53"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>c1887fdddb41cd10e03ad7c8f49619a5</instance_id>
+        <instance_name>dev121094</instance_name>
+        <name>sys_sg_screen_field_99961ccc97891110de3bbfb3f153af53</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>attachment_list</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name>attachment_list</field_name><hidden>false</hidden><order>110</order><record_id_field>sys_id</record_id_field><screen display_value="Details">5637aa9f97b81110de3bbfb3f153af59</screen><screen_data_item_table>x_58872_needit_needit</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-27 10:35:40</sys_created_on><sys_id>99961ccc97891110de3bbfb3f153af53</sys_id><sys_mod_count>0</sys_mod_count><sys_name>attachment_list</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_screen_field_99961ccc97891110de3bbfb3f153af53</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-27 10:35:40</sys_updated_on><type>attachments_list</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=99961ccc97891110de3bbfb3f153af53"/></record_update>]]></payload>
+        <payload_hash>-1225613175</payload_hash>
+        <record_name>attachment_list</record_name>
+        <reverted_from/>
+        <source>eaf14e1f97381110de3bbfb3f153afb0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 10:35:40</sys_created_on>
+        <sys_id>d596900097c91110de3bbfb3f153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1823f39fbce0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 10:35:40</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>119690002dc91110648f62d18210242a</update_guid>
+        <update_guid_history>119690002dc91110648f62d18210242a:-1225613175</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-27 10:35:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>12a024241f1844ae84873e08e19543a4</sys_id>
+        <sys_metadata>99961ccc97891110de3bbfb3f153af53</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>attachment_list</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_99961ccc97891110de3bbfb3f153af53</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_99961ccc97891110de3bbfb3f153af53">d596900097c91110de3bbfb3f153af2a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-27 10:35:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
